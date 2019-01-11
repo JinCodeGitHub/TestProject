@@ -1,0 +1,8 @@
+//
+// Created by dell on 2018/6/25.
+//
+
+#ifndef TESTPROJECT_NATIVETEST_HPP
+#define TESTPROJECT_NATIVETEST_HPP
+
+#endif //TESTPROJECT_NATIVETEST_HPP
