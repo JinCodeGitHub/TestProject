@@ -1,1 +1,1 @@
-include ':app', ':receivertest', ':messagethread', ':activitytimetest', ':testthread', ':ccalljava', ':myapplication', ':timetasktest', ':cardviewsample', ':btnclicktest', ':drawcircle', ':datecovertdemo'
+include ':app', ':receivertest', ':messagethread', ':activitytimetest', ':testthread', ':ccalljava', ':myapplication', ':timetasktest', ':cardviewsample', ':btnclicktest', ':drawcircle', ':datecovertdemo', ':greendaotest', ':bdsdktracedemo', ':mywebview', ':toolbardemo', ':drawsateview', ':addviewdemo', ':sensorsdemo', ':filetest'

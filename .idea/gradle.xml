@@ -9,17 +9,25 @@
           <set>
             <option value="$PROJECT_DIR$" />
             <option value="$PROJECT_DIR$/activitytimetest" />
+            <option value="$PROJECT_DIR$/addviewdemo" />
             <option value="$PROJECT_DIR$/app" />
+            <option value="$PROJECT_DIR$/bdsdktracedemo" />
             <option value="$PROJECT_DIR$/btnclicktest" />
             <option value="$PROJECT_DIR$/cardviewsample" />
             <option value="$PROJECT_DIR$/ccalljava" />
             <option value="$PROJECT_DIR$/datecovertdemo" />
             <option value="$PROJECT_DIR$/drawcircle" />
+            <option value="$PROJECT_DIR$/drawsateview" />
+            <option value="$PROJECT_DIR$/filetest" />
+            <option value="$PROJECT_DIR$/greendaotest" />
             <option value="$PROJECT_DIR$/messagethread" />
             <option value="$PROJECT_DIR$/myapplication" />
+            <option value="$PROJECT_DIR$/mywebview" />
             <option value="$PROJECT_DIR$/receivertest" />
+            <option value="$PROJECT_DIR$/sensorsdemo" />
             <option value="$PROJECT_DIR$/testthread" />
             <option value="$PROJECT_DIR$/timetasktest" />
+            <option value="$PROJECT_DIR$/toolbardemo" />
           </set>
         </option>
         <option name="resolveModulePerSourceSet" value="false" />
