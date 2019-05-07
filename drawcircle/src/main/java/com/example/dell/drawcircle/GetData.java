@@ -1,6 +1,6 @@
 package com.example.dell.drawcircle;
 
-import android.util.Log;
+
 
 /**
  * <pre>

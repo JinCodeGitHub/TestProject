@@ -1,5 +1,6 @@
 package com.example.testthread;
 
+import android.annotation.SuppressLint;
 import android.nfc.Tag;
 import android.os.Handler;
 import android.os.Looper;
@@ -61,6 +62,20 @@ public class MainActivity extends AppCompatActivity {
         Log.i("bbbbbbb",stringBuffer.substring(0,1));
         Log.i("ddddddd",stringBuffer.substring(stringBuffer.length()-1,stringBuffer.length()));
         Log.i("ddddddd",stringBuffer.substring(stringBuffer.length()-2,stringBuffer.length()-1));
+        double  a  = 37.11500;
+//        String sa  =  Double.toString(a);
+        String sb  = String.format("%.1f",a);
+        float  sf  = Float.parseFloat(sb);
+        int    si  = (int) (sf+0.5);
+        char   sc  = (char) si;
+
+
+        Log.i("ada", String.valueOf(sc));
+//        float  sb  =  Float.parseFloat(sa);
+//        int    as  = (int) (sb+0.5);
+//        char   ca  = (char) as;
+
+
     }
 
     class   DealThread extends  Thread {
